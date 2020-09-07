@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">مدیریت فایل</string>
-    <string name="main_search_editText_hint">بنویس تا بگردم ...</string>
+    <string name="main_search_editText_hint">بنویس تا بگردم …</string>
     <string name="dialog_add_new_folder">پوشه جدید</string>
     <string name="dialog_add_new_folder_hint">نام پوشه جدید را وارد کنید</string>
     <string name="dialog_button_create_new_folder">ایجاد پوشه</string>
     <string name="menu_itemFiles_delete">حذف</string>
     <string name="menu_itemFiles_copy">کپی</string>
     <string name="menu_itemFiles_move">انتقال</string>
+    <string name="external_files">فایل ها</string>
+    <integer name="locale_mirror_flip">180</integer>
+    <string name="is_not_empty">نباید خالی باشد</string>
+    <string name="file_is_copied">" کپی شد"</string>
+    <string name="file_is_moved">منتقل شد</string>
+
 </resources>

@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">FileManager</string>
-    <string name="main_search_editText_hint">Searching Somethings ...</string>
-    <string name="dialog_add_new_folder">add New Folder</string>
-    <string name="dialog_add_new_folder_hint">enter name folder ...</string>
+    <string name="main_search_editText_hint">Searching Somethings …</string>
+    <string name="dialog_add_new_folder">Add New Folder</string>
+    <string name="dialog_add_new_folder_hint">Enter name folder …</string>
     <string name="dialog_button_create_new_folder">create folder</string>
     <string name="menu_itemFiles_delete">delete</string>
     <string name="menu_itemFiles_copy">copy</string>
     <string name="menu_itemFiles_move">move</string>
+    <string name="external_files">Files</string>
+    <integer name="locale_mirror_flip">0</integer>
+    <string name="is_not_empty">Is Not Empty</string>
+    <string name="file_is_copied">File is copied</string>
+    <string name="file_is_moved">File is moved</string>
 </resources>
